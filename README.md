@@ -1,8 +1,6 @@
 <h1 align="center">Greetings, I'm Daryl (Diego)</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/cooltablenerd" target="blank"><img src="https://img.shields.io/twitter/follow/cooltablenerd?logo=twitter&style=for-the-badge" alt="cooltablenerd" /></a> </p>
-
 - 🔭 I’m currently working on [Back-End Engineer Career Path (Codecademy)](https://www.codecademy.com)
 
 - 🌱 I’m currently learning **How To Build Interactive Websites with JavaScript**
