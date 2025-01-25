@@ -1,11 +1,11 @@
 <h1 align="center">Greetings, I'm Daryl (Diego)</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
-- 🔭 I’m currently working on [Back-End Engineer Career Path (Codecademy)](https://www.codecademy.com)
+- 🔭 I’m currently working on [Python Crash Course](https://nostarch.com/python-crash-course-3rd-edition)
 
-- 🌱 I’m currently learning **How To Build Interactive Websites with JavaScript**
+- 🌱 I’m currently learning **Python Basics**
 
-- 👯 I’m looking to collaborate on **Javascript / Python projects**
+- 👯 I’m looking to collaborate on **Python projects**
 
 - 👨‍💻 All of my projects are available at [https://darylcorbin.com](https://darylcorbin.com)
 
